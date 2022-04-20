@@ -1,0 +1,4 @@
+pygame.Surface((width, height), flags=0, depth=0, masks=None)
+       Surface((width, height), flags=0, Surface)
+            Surface.blit(source, dest, area=None, special_flags=0) -> Rect
+                Rect(left, top, width, height) -> Rects
